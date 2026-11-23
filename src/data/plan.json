@@ -1,0 +1,3104 @@
+{
+  "meta": {
+    "titulo": "Plan Onil Trails 14K — Día a día",
+    "inicio": "2026-11-24",
+    "fin": "2027-02-10",
+    "carrera": "14/03/2027"
+  },
+  "dias": [
+    {
+      "id": "2026-11-24",
+      "fecha": "24/11/2026",
+      "diaSemana": "Martes",
+      "semana": "Semana 1 (24/11–29/11)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna A",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Prensa",
+            "series": "3",
+            "repeticiones": "10",
+            "peso": "80 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Hack squat",
+            "series": "3",
+            "repeticiones": "8-10",
+            "peso": "15 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral tumbado",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "25 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Extensión cuádriceps",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "40 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo en máquina",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "40 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Aductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "25 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof press (polea)",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "5-7 kg",
+            "rpe": "6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Empezar conservador; vienes de sesión 'out'."
+    },
+    {
+      "id": "2026-11-25",
+      "fecha": "25/11/2026",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 1 (24/11–29/11)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 3-4 / Z1-Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "intervalos-andar",
+        "titulo": "Andar enérgico con cambios de ritmo (exterior)",
+        "detalle": "5 min calentamiento fácil + 6 x (2 min andar enérgico / 2 min andar fácil) + 5 min vuelta a la calma. Total 35 min. RPE 3-4 / Z1-Z2 baja FC. Terreno: asfalto o parque llano. Mantén postura erguida y braceo activo."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Dejar recuperar las piernas tras el gym."
+      },
+      "notas": "Entre semana después de 17:00. Asfalto/parque o cinta."
+    },
+    {
+      "id": "2026-11-26",
+      "fecha": "26/11/2026",
+      "diaSemana": "Jueves",
+      "semana": "Semana 1 (24/11–29/11)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": "No cargar piernas."
+    },
+    {
+      "id": "2026-11-27",
+      "fecha": "27/11/2026",
+      "diaSemana": "Viernes",
+      "semana": "Semana 1 (24/11–29/11)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna B ligera (2 series)",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Step-up a cajón bajo",
+            "series": "2",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Zancada atrás",
+            "series": "2",
+            "repeticiones": "8/lado",
+            "peso": "4 kg c/mano",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Peso muerto rumano (Smith)",
+            "series": "2",
+            "repeticiones": "8",
+            "peso": "20 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "2",
+            "repeticiones": "10-12",
+            "peso": "20 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo unilateral",
+            "series": "2",
+            "repeticiones": "8-10/lado",
+            "peso": "20 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Abductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "25 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof press",
+            "series": "2",
+            "repeticiones": "8/lado",
+            "peso": "5-7 kg",
+            "rpe": "5-6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 5-6. Sesión ligera (2 series). Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Técnica y unilateral. Cargas moderadas."
+    },
+    {
+      "id": "2026-11-28",
+      "fecha": "28/11/2026",
+      "diaSemana": "Sábado",
+      "semana": "Semana 1 (24/11–29/11)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 4-5 / Z2-Z3 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "cuestas",
+        "titulo": "Cuestas/power hike (exterior)",
+        "detalle": "Cardio exterior — Cuestas/power hike (40-45 min): 10 min calentamiento andando fácil en llano + 6-8 x (1 min 30 s subida enérgica en cuesta / bajada caminando suave 2-3 min de recuperación) + 5-10 min vuelta a la calma en llano. RPE 5-6 en subida / Z2-Z3 baja FC; recuperación en Z1. Terreno: cuesta de asfalto o camino firme. Paso potente, sin correr cuesta arriba aún. Primer estímulo de cuesta. Si no tienes cuesta cerca, usa una rampa larga de parque."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Fin de semana full disponible. Cuesta, asfalto o cinta inclinada."
+    },
+    {
+      "id": "2026-11-29",
+      "fecha": "29/11/2026",
+      "diaSemana": "Domingo",
+      "semana": "Semana 1 (24/11–29/11)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar fácil",
+        "detalle": "Andar 40 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional suave."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC. Recuperación del fin de semana."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Recuperación",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Gym cerrado. Día de recuperación."
+      },
+      "notas": "Gym cerrado. Recuperación."
+    },
+    {
+      "id": "2026-11-30",
+      "fecha": "30/11/2026",
+      "diaSemana": "Lunes",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": "Semana de viaje: mantener lo esencial."
+    },
+    {
+      "id": "2026-12-01",
+      "fecha": "01/12/2026",
+      "diaSemana": "Martes",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 6-7 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna A",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Prensa",
+            "series": "3",
+            "repeticiones": "10",
+            "peso": "85 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Hack squat",
+            "series": "3",
+            "repeticiones": "8-10",
+            "peso": "17,5 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "27,5 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Extensión",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "42,5 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "45 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Aductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "27,5 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "5-7 kg",
+            "rpe": "6-7",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6-7. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Última pierna antes de viaje."
+    },
+    {
+      "id": "2026-12-02",
+      "fecha": "02/12/2026",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 3-4 / Z1-Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "intervalos-andar",
+        "titulo": "Andar enérgico con cambios de ritmo (exterior)",
+        "detalle": "5 min calentamiento fácil + 6 x (2 min andar enérgico / 2 min andar fácil) + 5 min vuelta a la calma. Total 35 min. RPE 3-4 / Z1-Z2 baja FC. Terreno: asfalto o parque llano."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Mantener fácil antes del viaje."
+    },
+    {
+      "id": "2026-12-03",
+      "fecha": "03/12/2026",
+      "diaSemana": "Jueves",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": "Dejar piernas frescas para el viaje."
+    },
+    {
+      "id": "2026-12-04",
+      "fecha": "04/12/2026",
+      "diaSemana": "Viernes",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym (viaje)",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar suave opcional",
+        "detalle": "Andar suave opcional 20-30 minutos (RPE 1-2 / Z1 FC). Solo si apetece; sin forzar."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Viaje: opcional, solo si apetece."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Descanso/viaje",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Sin plan rígido."
+      },
+      "notas": "Viaje. Sin plan rígido, cardio suave opcional con amigos."
+    },
+    {
+      "id": "2026-12-05",
+      "fecha": "05/12/2026",
+      "diaSemana": "Sábado",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym (viaje)",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar suave opcional",
+        "detalle": "Andar suave opcional 20-30 minutos (RPE 1-2 / Z1 FC). Solo si apetece; sin forzar."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC. Viaje con amigos. Opcional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Descanso/viaje",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Priorizar descanso."
+      },
+      "notas": "Viaje con amigos. Priorizar descanso."
+    },
+    {
+      "id": "2026-12-06",
+      "fecha": "06/12/2026",
+      "diaSemana": "Domingo",
+      "semana": "Semana 2 (30/11–06/12)",
+      "fase": "F1 Base + gym (viaje/esquí)",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal del día."
+      },
+      "notas": "Esquí. Festivo Constitución; gym cerrado. Hidratación y comida suficiente."
+    },
+    {
+      "id": "2026-12-07",
+      "fecha": "07/12/2026",
+      "diaSemana": "Lunes",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym (viaje/esquí)",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal del día."
+      },
+      "notas": "Esquí viaje. Día exigente para piernas."
+    },
+    {
+      "id": "2026-12-08",
+      "fecha": "08/12/2026",
+      "diaSemana": "Martes",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Post-esquí/viaje. Prioriza recuperar."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna. Recuperación post-esquí/viaje",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "No forzar pierna."
+      },
+      "notas": "Festivo Inmaculada (Madrid/España). Gym probablemente cerrado: no forzar pierna, recuperar."
+    },
+    {
+      "id": "2026-12-09",
+      "fecha": "09/12/2026",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 3 / Z1-Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "intervalos-andar",
+        "titulo": "Andar enérgico con cambios de ritmo (exterior)",
+        "detalle": "5 min calentamiento fácil + 5 x (2 min enérgico / 2 min fácil) + 5 min vuelta a la calma. Total 30-35 min. RPE 3 / Z1-Z2 baja FC. Asfalto llano."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Vuelta suave post-viaje/esquí."
+    },
+    {
+      "id": "2026-12-10",
+      "fecha": "10/12/2026",
+      "diaSemana": "Jueves",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": "Normalizar rutina."
+    },
+    {
+      "id": "2026-12-11",
+      "fecha": "11/12/2026",
+      "diaSemana": "Viernes",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna A ligera (2 series)",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Prensa",
+            "series": "2",
+            "repeticiones": "10",
+            "peso": "75 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Hack squat",
+            "series": "2",
+            "repeticiones": "8-10",
+            "peso": "15 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "2",
+            "repeticiones": "10-12",
+            "peso": "25 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Extensión",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "37,5 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo",
+            "series": "2",
+            "repeticiones": "10-12",
+            "peso": "40 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Aductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "25 kg",
+            "rpe": "5-6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof",
+            "series": "2",
+            "repeticiones": "8/lado",
+            "peso": "5-7 kg",
+            "rpe": "5-6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 5-6. Sesión ligera: carga reducida ~10-15%. Nunca llegues al fallo."
+      },
+      "notas": "Descarga tras viaje. Técnica limpia, sin acercarte al fallo."
+    },
+    {
+      "id": "2026-12-12",
+      "fecha": "12/12/2026",
+      "diaSemana": "Sábado",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 4-5 / Z2-Z3 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "cuestas",
+        "titulo": "Cuestas/power hike (exterior)",
+        "detalle": "Cardio exterior — Cuestas/power hike (40-45 min): 10 min calentamiento andando fácil en llano + 6-8 x (1 min 30 s subida enérgica en cuesta / bajada caminando suave 2-3 min de recuperación) + 5-10 min vuelta a la calma en llano. RPE 5-6 en subida / Z2-Z3 baja FC; recuperación en Z1. Terreno: cuesta de asfalto o camino firme. Paso potente, sin correr cuesta arriba aún. Vuelta progresiva tras viaje. Cuesta de asfalto o camino firme."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Cuesta/asfalto/cinta. Paso firme."
+    },
+    {
+      "id": "2026-12-13",
+      "fecha": "13/12/2026",
+      "diaSemana": "Domingo",
+      "semana": "Semana 3 (07/12–13/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar fácil",
+        "detalle": "Andar 40 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Recuperación",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Gym cerrado."
+      },
+      "notas": "Gym cerrado."
+    },
+    {
+      "id": "2026-12-14",
+      "fecha": "14/12/2026",
+      "diaSemana": "Lunes",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2026-12-15",
+      "fecha": "15/12/2026",
+      "diaSemana": "Martes",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 6-7 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna A",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Prensa",
+            "series": "3",
+            "repeticiones": "10",
+            "peso": "90 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Hack squat",
+            "series": "3",
+            "repeticiones": "8-10",
+            "peso": "20 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "30 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Extensión",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "45 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "50 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Aductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "30 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "5-7 kg",
+            "rpe": "6-7",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6-7. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Progresión pequeña si técnica buena."
+    },
+    {
+      "id": "2026-12-16",
+      "fecha": "16/12/2026",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk inicial (exterior)",
+        "detalle": "Cardio exterior — Run-walk inicial (35 min): 5 min andar fácil + 8 x (30 s trote muy suave / 2 min 30 s andar) + 5 min andar fácil. RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. Trote suave de verdad, sin sprint. Si hay molestia articular, cambia a andar enérgico. Primer estímulo run-walk. Si te sientes bien, mantén; si no, cambia a andar enérgico."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Primer estímulo run-walk muy suave. Superficie llana."
+    },
+    {
+      "id": "2026-12-17",
+      "fecha": "17/12/2026",
+      "diaSemana": "Jueves",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2026-12-18",
+      "fecha": "18/12/2026",
+      "diaSemana": "Viernes",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 6-7 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna B",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Step-up a cajón bajo",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "4 kg c/mano",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Zancada atrás",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "6 kg c/mano",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Peso muerto rumano (Smith)",
+            "series": "3",
+            "repeticiones": "8",
+            "peso": "30 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "2",
+            "repeticiones": "10-12",
+            "peso": "25 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo unilateral",
+            "series": "3",
+            "repeticiones": "8-10/lado",
+            "peso": "25 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Abductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "25 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "5-7 kg",
+            "rpe": "6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6. Pesos estimados: ajusta a RPE 6-7. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Unilateral/control. Priorizar estabilidad."
+    },
+    {
+      "id": "2026-12-19",
+      "fecha": "19/12/2026",
+      "diaSemana": "Sábado",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6 / Z2-Z3 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "cuestas",
+        "titulo": "Cuestas largas/power hike (exterior)",
+        "detalle": "Cardio exterior — Cuestas largas/power hike (45-50 min): 10 min calentamiento + 4 x (3 min subida enérgica constante / bajada caminando suave 3-4 min) + 5-10 min vuelta a la calma. RPE 5-6 / Z2-Z3 baja FC. Terreno: cuesta de asfalto o trail firme. Simula las subidas de Onil; paso firme, torso activo. Busca una cuesta de 3-4 min. Simula subidas de trail."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Cuesta o cinta 5-7%."
+    },
+    {
+      "id": "2026-12-20",
+      "fecha": "20/12/2026",
+      "diaSemana": "Domingo",
+      "semana": "Semana 4 (14/12–20/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar fácil",
+        "detalle": "Andar 45 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena."
+      },
+      "cardio": {
+        "tipo": "rodaje",
+        "titulo": "Rodaje fácil largo (exterior)",
+        "detalle": "Cardio exterior — Rodaje fácil largo (45-55 min): 10 min andar fácil + 30-35 min trote muy suave continuo o 3 min trote / 1 min andar si hace falta + 5-10 min andar fácil. RPE 3-4 / Z2 baja FC. Superficie: asfalto o parque llano. Objetivo: acumular tiempo en movimiento sin pasarte. Rodaje largo fácil. Si no puedes trotar continuo, haz 2 min trote / 1 min andar."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Recuperación",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Gym cerrado."
+      },
+      "notas": "Gym cerrado."
+    },
+    {
+      "id": "2026-12-21",
+      "fecha": "21/12/2026",
+      "diaSemana": "Lunes",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2026-12-22",
+      "fecha": "22/12/2026",
+      "diaSemana": "Martes",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 6-7 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna A",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Prensa",
+            "series": "3",
+            "repeticiones": "10",
+            "peso": "95 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Hack squat",
+            "series": "3",
+            "repeticiones": "8-10",
+            "peso": "20 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "30 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Extensión",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "47,5 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "55 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Aductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "32,5 kg",
+            "rpe": "6-7",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "5-7 kg",
+            "rpe": "6-7",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6-7. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Mantener calidad técnica."
+    },
+    {
+      "id": "2026-12-23",
+      "fecha": "23/12/2026",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk inicial (exterior)",
+        "detalle": "Cardio exterior — Run-walk inicial (35 min): 5 min andar fácil + 8 x (30 s trote muy suave / 2 min 30 s andar) + 5 min andar fácil. RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. Trote suave de verdad, sin sprint. Si hay molestia articular, cambia a andar enérgico. Si el 16/12 fue bien, mantén igual. No subas volumen en semana festiva."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Run-walk suave; si hay fatiga, recorta a 6 repeticiones."
+    },
+    {
+      "id": "2026-12-24",
+      "fecha": "24/12/2026",
+      "diaSemana": "Jueves",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym (Nochebuena)",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Nochebuena. Día flexible."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Si el gym abre poco, mueve superior o descansa."
+      },
+      "notas": "Nochebuena. Día flexible."
+    },
+    {
+      "id": "2026-12-25",
+      "fecha": "25/12/2026",
+      "diaSemana": "Viernes",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym (Navidad)",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar fácil",
+        "detalle": "Andar 30-40 minutos a ritmo fácil (RPE 1-2 / Z1 FC)."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC. Navidad. Paseo fácil."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Gym cerrado",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Navidad. Descanso activo."
+      },
+      "notas": "Navidad. Descanso activo."
+    },
+    {
+      "id": "2026-12-26",
+      "fecha": "26/12/2026",
+      "diaSemana": "Sábado",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 4 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "cuestas",
+        "titulo": "Cuestas/power hike (exterior)",
+        "detalle": "Cardio exterior — Cuestas/power hike (40-45 min): 10 min calentamiento andando fácil en llano + 6-8 x (1 min 30 s subida enérgica en cuesta / bajada caminando suave 2-3 min de recuperación) + 5-10 min vuelta a la calma en llano. RPE 5-6 en subida / Z2-Z3 baja FC; recuperación en Z1. Terreno: cuesta de asfalto o camino firme. Paso potente, sin correr cuesta arriba aún. Suave post-festivo. 5-6 repeticiones en vez de 6-8 si hay fatiga."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Suave post-festivo."
+    },
+    {
+      "id": "2026-12-27",
+      "fecha": "27/12/2026",
+      "diaSemana": "Domingo",
+      "semana": "Semana 5 (21/12–27/12)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar fácil",
+        "detalle": "Andar 40 minutos a ritmo fácil (RPE 2 / Z1 FC)."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Recuperación",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Gym cerrado."
+      },
+      "notas": "Gym cerrado."
+    },
+    {
+      "id": "2026-12-28",
+      "fecha": "28/12/2026",
+      "diaSemana": "Lunes",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": "Última semana con gym disponible."
+    },
+    {
+      "id": "2026-12-29",
+      "fecha": "29/12/2026",
+      "diaSemana": "Martes",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 6 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "gym-pierna",
+        "titulo": "Fuerza pierna GYM — Pierna B",
+        "calentamiento": "Calentamiento 8-10 min: bici o cinta suave 3-5 min + movilidad de tobillo y cadera + 2 series ligeras del primer ejercicio.",
+        "bloques": [
+          {
+            "ejercicio": "Step-up a cajón bajo",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "6 kg c/mano",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Zancada atrás",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "8 kg c/mano",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Peso muerto rumano (Smith)",
+            "series": "3",
+            "repeticiones": "8",
+            "peso": "35 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Curl femoral",
+            "series": "2",
+            "repeticiones": "10-12",
+            "peso": "27,5 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo unilateral",
+            "series": "3",
+            "repeticiones": "8-10/lado",
+            "peso": "30 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Abductores",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "27,5 kg",
+            "rpe": "6",
+            "descanso": "60-90 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Pallof",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "5-7 kg",
+            "rpe": "6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6 · sin fallo. Última pierna gym. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Última pierna gym. Buena técnica, sin fallo."
+    },
+    {
+      "id": "2026-12-30",
+      "fecha": "30/12/2026",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F1 Base + gym",
+      "rpeFc": "RPE 4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk progresión (exterior)",
+        "detalle": "Cardio exterior — Run-walk progresión (40 min): 5 min andar fácil + 10 x (1 min trote suave / 2 min andar) + 5 min andar fácil. RPE 4 / Z2 FC. Superficie: asfalto llano o parque. Mantén conversación entrecortada en el trote; si FC sube mucho, alarga el andar. Sube un poco el estímulo de trote antes del parón de gym."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Último día gym disponible. Si quieres mover superior, posible; domingo cerrado."
+    },
+    {
+      "id": "2026-12-31",
+      "fecha": "31/12/2026",
+      "diaSemana": "Jueves",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F2 Transición Navidad",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC. Nochevieja. Fácil."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Descanso activo / movilidad suave",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Movilidad suave 10 min opcional."
+      },
+      "notas": "Nochevieja. Sin gym."
+    },
+    {
+      "id": "2027-01-01",
+      "fecha": "01/01/2027",
+      "diaSemana": "Viernes",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F2 Transición Navidad",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Año Nuevo. Descanso activo."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Descanso activo."
+      },
+      "notas": "Año Nuevo. Descanso activo."
+    },
+    {
+      "id": "2027-01-02",
+      "fecha": "02/01/2027",
+      "diaSemana": "Sábado",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F2 Transición Navidad",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk inicial (exterior)",
+        "detalle": "Cardio exterior — Run-walk inicial (35 min): 5 min andar fácil + 8 x (30 s trote muy suave / 2 min 30 s andar) + 5 min andar fácil. RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. Trote suave de verdad, sin sprint. Si hay molestia articular, cambia a andar enérgico. Sesión suave para retomar después de festivos."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Retomar rutina suave."
+    },
+    {
+      "id": "2027-01-03",
+      "fecha": "03/01/2027",
+      "diaSemana": "Domingo",
+      "semana": "Semana 6 (28/12–03/01)",
+      "fase": "F2 Transición Navidad",
+      "rpeFc": "RPE 2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar fácil",
+        "detalle": "Andar 40 minutos a ritmo fácil (RPE 2 / Z1 FC)."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Paseo fácil (exterior)",
+        "detalle": "Paseo fácil exterior: 30-40 min a ritmo cómodo. RPE 1-2 / Z1 FC."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Recuperación",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": ""
+    },
+    {
+      "id": "2027-01-04",
+      "fecha": "04/01/2027",
+      "diaSemana": "Lunes",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F2/F3",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2027-01-05",
+      "fecha": "05/01/2027",
+      "diaSemana": "Martes",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "casa-pierna",
+        "titulo": "Fuerza pierna CASA — Pierna A",
+        "calentamiento": "Calentamiento 6-8 min: movilidad articular + 20 sentadillas al aire suaves + 10 elevaciones de talón.",
+        "bloques": [
+          {
+            "ejercicio": "Sentadilla a silla (tocar y subir)",
+            "series": "3",
+            "repeticiones": "10-12",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Puente de glúteo, 2 s arriba",
+            "series": "3",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Split squat isométrico (apoyo silla)",
+            "series": "3",
+            "repeticiones": "20 s/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Step-down lento, 3 s bajando",
+            "series": "2",
+            "repeticiones": "6/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelos en escalón",
+            "series": "3",
+            "repeticiones": "12-15",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Isométrico pared",
+            "series": "2",
+            "repeticiones": "30 s",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Rotación de tronco con garrafa",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6. Material: silla, escalón y garrafas. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Inicio fuerza sin gym: silla y garrafas de agua."
+    },
+    {
+      "id": "2027-01-06",
+      "fecha": "06/01/2027",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Festivo Reyes. Día fácil."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Día fácil."
+      },
+      "notas": "Festivo Reyes. Día fácil."
+    },
+    {
+      "id": "2027-01-07",
+      "fecha": "07/01/2027",
+      "diaSemana": "Jueves",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2027-01-08",
+      "fecha": "08/01/2027",
+      "diaSemana": "Viernes",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk progresión (exterior)",
+        "detalle": "Cardio exterior — Run-walk progresión (40 min): 5 min andar fácil + 10 x (1 min trote suave / 2 min andar) + 5 min andar fácil. RPE 4 / Z2 FC. Superficie: asfalto llano o parque. Mantén conversación entrecortada en el trote; si FC sube mucho, alarga el andar. Deja piernas frescas para el esquí del fin de semana."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Dejar piernas frescas para esquí del fin de semana."
+    },
+    {
+      "id": "2027-01-09",
+      "fecha": "09/01/2027",
+      "diaSemana": "Sábado",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí/raquetas media jornada."
+    },
+    {
+      "id": "2027-01-10",
+      "fecha": "10/01/2027",
+      "diaSemana": "Domingo",
+      "semana": "Semana 7 (04/01–10/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí/raquetas media jornada."
+    },
+    {
+      "id": "2027-01-11",
+      "fecha": "11/01/2027",
+      "diaSemana": "Lunes",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Post-esquí. Recuperación."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Post-esquí, recuperación."
+      },
+      "notas": "Post-esquí, recuperación."
+    },
+    {
+      "id": "2027-01-12",
+      "fecha": "12/01/2027",
+      "diaSemana": "Martes",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "casa-pierna",
+        "titulo": "Fuerza pierna CASA — Pierna B",
+        "calentamiento": "Calentamiento 6-8 min: movilidad articular + 20 sentadillas al aire suaves + 10 elevaciones de talón.",
+        "bloques": [
+          {
+            "ejercicio": "Zancada atrás corta (apoyo silla)",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Peso muerto rumano a una pierna",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Step-down lento, 3 s bajando",
+            "series": "2",
+            "repeticiones": "6/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Sentadilla isométrica a silla",
+            "series": "3",
+            "repeticiones": "25 s",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo unilateral apoyado",
+            "series": "3",
+            "repeticiones": "10/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Abducción de cadera de pie",
+            "series": "2",
+            "repeticiones": "12/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Rotación de tronco",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Fuerza casa unilateral/control."
+    },
+    {
+      "id": "2027-01-13",
+      "fecha": "13/01/2027",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 4 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk progresión (exterior)",
+        "detalle": "Cardio exterior — Run-walk progresión (40 min): 5 min andar fácil + 10 x (1 min trote suave / 2 min andar) + 5 min andar fácil. RPE 4 / Z2 FC. Superficie: asfalto llano o parque. Mantén conversación entrecortada en el trote; si FC sube mucho, alarga el andar. Progresión si piernas bien. Asfalto llano o parque."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Progresión si piernas bien. Cinta o asfalto llano."
+    },
+    {
+      "id": "2027-01-14",
+      "fecha": "14/01/2027",
+      "diaSemana": "Jueves",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F3 Esquí + mantenimiento",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": "Día previo a semana blanca: no cargar piernas."
+    },
+    {
+      "id": "2027-01-15",
+      "fecha": "15/01/2027",
+      "diaSemana": "Viernes",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Semana blanca inicia. Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-16",
+      "fecha": "16/01/2027",
+      "diaSemana": "Sábado",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-17",
+      "fecha": "17/01/2027",
+      "diaSemana": "Domingo",
+      "semana": "Semana 8 (11/01–17/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h. (Si prefieres que sea no-esquí, ajusta con 24/01)."
+    },
+    {
+      "id": "2027-01-18",
+      "fecha": "18/01/2027",
+      "diaSemana": "Lunes",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-19",
+      "fecha": "19/01/2027",
+      "diaSemana": "Martes",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-20",
+      "fecha": "20/01/2027",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. No esquí. Prioriza recuperación, sueño y comida."
+      },
+      "fuerza": {
+        "tipo": "micro-pierna",
+        "titulo": "Micro pierna (opcional, solo si estás fresco)",
+        "calentamiento": "Movilidad suave 3-5 min.",
+        "bloques": [
+          {
+            "ejercicio": "Sentadilla a silla",
+            "series": "2",
+            "repeticiones": "10",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Puente de glúteo",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelos en escalón",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Isométrico pared",
+            "series": "1",
+            "repeticiones": "30 s",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Estiramientos suaves 2-3 min.",
+        "nota": "RPE 4-5. Opcional: solo si estás fresco. Si estás cargado por el esquí, omite la fuerza."
+      },
+      "notas": "No esquí (según tu respuesta). Prioriza recuperación, sueño y comida."
+    },
+    {
+      "id": "2027-01-21",
+      "fecha": "21/01/2027",
+      "diaSemana": "Jueves",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-22",
+      "fecha": "22/01/2027",
+      "diaSemana": "Viernes",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-23",
+      "fecha": "23/01/2027",
+      "diaSemana": "Sábado",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí alpino 4-5 h",
+        "detalle": "Esquí alpino 4-5 h. Carga principal del día. Hidratar, comer carbohidrato, proteger piel. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí 4-5 h."
+    },
+    {
+      "id": "2027-01-24",
+      "fecha": "24/01/2027",
+      "diaSemana": "Domingo",
+      "semana": "Semana 9 (18/01–24/01)",
+      "fase": "F4 Semana blanca",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. No esquí. Descarga, movilidad."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Movilidad suave 10 min opcional",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Descarga, movilidad."
+      },
+      "notas": "No esquí (según tu respuesta). Descarga, movilidad."
+    },
+    {
+      "id": "2027-01-25",
+      "fecha": "25/01/2027",
+      "diaSemana": "Lunes",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Post-semana blanca. Valorar fatiga."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Post-semana blanca, valorar fatiga."
+      },
+      "notas": "Post-semana blanca, valorar fatiga."
+    },
+    {
+      "id": "2027-01-26",
+      "fecha": "26/01/2027",
+      "diaSemana": "Martes",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 5-6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "casa-pierna",
+        "titulo": "Fuerza pierna CASA — Pierna A ligera",
+        "calentamiento": "Calentamiento 6-8 min: movilidad articular + 20 sentadillas al aire suaves + 10 elevaciones de talón.",
+        "bloques": [
+          {
+            "ejercicio": "Sentadilla a silla",
+            "series": "2",
+            "repeticiones": "10",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Puente de glúteo",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Split squat isométrico",
+            "series": "2",
+            "repeticiones": "20 s/lado",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Step-down lento",
+            "series": "2",
+            "repeticiones": "5/lado",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelos en escalón",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Isométrico pared",
+            "series": "2",
+            "repeticiones": "30 s",
+            "peso": "PC",
+            "rpe": "5-6",
+            "descanso": "45-75 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 5-6. Versión ligera. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "No forzar. Priorizar calidad."
+    },
+    {
+      "id": "2027-01-27",
+      "fecha": "27/01/2027",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk progresión (exterior)",
+        "detalle": "Cardio exterior — Run-walk progresión (40 min): 5 min andar fácil + 10 x (1 min trote suave / 2 min andar) + 5 min andar fácil. RPE 4 / Z2 FC. Superficie: asfalto llano o parque. Mantén conversación entrecortada en el trote; si FC sube mucho, alarga el andar. Reinicio suave tras semana blanca. Si te notas pesado, vuelve a RW1."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Reinicio suave tras semana blanca."
+    },
+    {
+      "id": "2027-01-28",
+      "fecha": "28/01/2027",
+      "diaSemana": "Jueves",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2027-01-29",
+      "fecha": "29/01/2027",
+      "diaSemana": "Viernes",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 6 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "casa-pierna",
+        "titulo": "Fuerza pierna CASA — Pierna B",
+        "calentamiento": "Calentamiento 6-8 min: movilidad articular + 20 sentadillas al aire suaves + 10 elevaciones de talón.",
+        "bloques": [
+          {
+            "ejercicio": "Zancada atrás corta",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Peso muerto rumano a una pierna",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Step-down lento",
+            "series": "2",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Sentadilla isométrica a silla",
+            "series": "3",
+            "repeticiones": "30 s",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo unilateral",
+            "series": "3",
+            "repeticiones": "10/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Abducción de cadera",
+            "series": "2",
+            "repeticiones": "12/lado",
+            "peso": "PC",
+            "rpe": "6",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Rotación de tronco",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Fuerza casa unilateral/control."
+    },
+    {
+      "id": "2027-01-30",
+      "fecha": "30/01/2027",
+      "diaSemana": "Sábado",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí/raquetas media jornada."
+    },
+    {
+      "id": "2027-01-31",
+      "fecha": "31/01/2027",
+      "diaSemana": "Domingo",
+      "semana": "Semana 10 (25/01–31/01)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí/raquetas media jornada."
+    },
+    {
+      "id": "2027-02-01",
+      "fecha": "01/02/2027",
+      "diaSemana": "Lunes",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Recuperación post-esquí."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Recuperación post-esquí."
+      },
+      "notas": "Recuperación post-esquí."
+    },
+    {
+      "id": "2027-02-02",
+      "fecha": "02/02/2027",
+      "diaSemana": "Martes",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 6-7 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "casa-pierna",
+        "titulo": "Fuerza pierna CASA — Pierna A",
+        "calentamiento": "Calentamiento 6-8 min: movilidad articular + 20 sentadillas al aire suaves + 10 elevaciones de talón.",
+        "bloques": [
+          {
+            "ejercicio": "Sentadilla a silla con garrafa al pecho",
+            "series": "3",
+            "repeticiones": "12",
+            "peso": "garrafa 8 L",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Puente de glúteo a una pierna",
+            "series": "2",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Split squat isométrico",
+            "series": "3",
+            "repeticiones": "25 s/lado",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Step-down lento",
+            "series": "3",
+            "repeticiones": "6/lado",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelos en escalón",
+            "series": "3",
+            "repeticiones": "15",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Isométrico pared",
+            "series": "2",
+            "repeticiones": "40 s",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Rotación de tronco",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6-7",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6-7. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Fuerza casa A completa si estás bien."
+    },
+    {
+      "id": "2027-02-03",
+      "fecha": "03/02/2027",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 5-6 / Z2-Z3 baja FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "cuestas",
+        "titulo": "Cuestas largas/power hike (exterior)",
+        "detalle": "Cardio exterior — Cuestas largas/power hike (45-50 min): 10 min calentamiento + 4 x (3 min subida enérgica constante / bajada caminando suave 3-4 min) + 5-10 min vuelta a la calma. RPE 5-6 / Z2-Z3 baja FC. Terreno: cuesta de asfalto o trail firme. Simula las subidas de Onil; paso firme, torso activo. Sesión clave para Onil: subidas largas al aire libre. Si hay fatiga articular, haz solo 3 repeticiones."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza de pierna",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": ""
+      },
+      "notas": "Cinta inclinada/cuesta si prefieres bajo impacto."
+    },
+    {
+      "id": "2027-02-04",
+      "fecha": "04/02/2027",
+      "diaSemana": "Jueves",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 5-6",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "superior",
+        "titulo": "Entrenamiento de tren superior (lo planificas tú)",
+        "calentamiento": "Tu calentamiento habitual de tren superior.",
+        "bloques": [],
+        "vueltaCalma": "Tu vuelta a la calma habitual.",
+        "nota": "Evitar fatigar piernas; RPE 5-6 orientativo."
+      },
+      "notas": ""
+    },
+    {
+      "id": "2027-02-05",
+      "fecha": "05/02/2027",
+      "diaSemana": "Viernes",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 6-7 / Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "ninguno",
+        "titulo": "Sin cardio estructurado",
+        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+      },
+      "fuerza": {
+        "tipo": "casa-pierna",
+        "titulo": "Fuerza pierna CASA — Pierna B",
+        "calentamiento": "Calentamiento 6-8 min: movilidad articular + 20 sentadillas al aire suaves + 10 elevaciones de talón.",
+        "bloques": [
+          {
+            "ejercicio": "Zancada atrás corta",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Peso muerto rumano a una pierna",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "garrafa 8 L",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Step-down lento",
+            "series": "3",
+            "repeticiones": "8/lado",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Sentadilla isométrica a silla",
+            "series": "3",
+            "repeticiones": "35 s",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelo unilateral",
+            "series": "3",
+            "repeticiones": "12/lado",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Abducción de cadera",
+            "series": "2",
+            "repeticiones": "12/lado",
+            "peso": "PC",
+            "rpe": "6-7",
+            "descanso": "45-75 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Rotación de tronco",
+            "series": "2",
+            "repeticiones": "10/lado",
+            "peso": "garrafa 5 L",
+            "rpe": "6-7",
+            "descanso": "45-60 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
+        "nota": "RPE 6-7. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+      },
+      "notas": "Fuerza casa B completa si estás bien."
+    },
+    {
+      "id": "2027-02-06",
+      "fecha": "06/02/2027",
+      "diaSemana": "Sábado",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Esquí/raquetas media jornada."
+    },
+    {
+      "id": "2027-02-07",
+      "fecha": "07/02/2027",
+      "diaSemana": "Domingo",
+      "semana": "Semana 11 (01/02–07/02)",
+      "fase": "F5 Reconstrucción",
+      "rpeFc": "RPE 4-6 / FC variable",
+      "andar": {
+        "tipo": "andar-opcional",
+        "titulo": "Andar no obligatorio",
+        "detalle": "Día de esquí: no es obligatorio hacer 30 min de andar. Si caminas, que sea suave."
+      },
+      "cardio": {
+        "tipo": "esqui",
+        "titulo": "Esquí/raquetas media jornada",
+        "detalle": "Esquí/raquetas media jornada. Carga principal del día. Hidratar bien y comer suficiente. Sin cardio estructurado adicional."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Esquí como carga principal."
+      },
+      "notas": "Último fin de semana de esquí/raquetas del bloque."
+    },
+    {
+      "id": "2027-02-08",
+      "fecha": "08/02/2027",
+      "diaSemana": "Lunes",
+      "semana": "Semana 12 (08/02–10/02)",
+      "fase": "F5 Control",
+      "rpeFc": "RPE 1-2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "recuperacion",
+        "titulo": "Recuperación activa (exterior)",
+        "detalle": "Recuperación activa exterior: 25-35 min andar muy suave en llano o movilidad articular. RPE 1-2 / Z1 FC. Si hay fatiga de esquí, quédate en 20 min suaves. Descarga suave post-esquí."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Descarga suave post-esquí."
+      },
+      "notas": "Descarga suave post-esquí."
+    },
+    {
+      "id": "2027-02-09",
+      "fecha": "09/02/2027",
+      "diaSemana": "Martes",
+      "semana": "Semana 12 (08/02–10/02)",
+      "fase": "F5 Control",
+      "rpeFc": "RPE 3-4 / Z1-Z2 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "run-walk",
+        "titulo": "Run-walk progresión (exterior)",
+        "detalle": "Cardio exterior — Run-walk progresión (40 min): 5 min andar fácil + 10 x (1 min trote suave / 2 min andar) + 5 min andar fácil. RPE 4 / Z2 FC. Superficie: asfalto llano o parque. Mantén conversación entrecortada en el trote; si FC sube mucho, alarga el andar. Opcional. Solo si te sientes fresco. No llegar fatigado al control."
+      },
+      "fuerza": {
+        "tipo": "micro-pierna",
+        "titulo": "Micro pierna (opcional, solo si estás fresco)",
+        "calentamiento": "Movilidad suave 3-5 min.",
+        "bloques": [
+          {
+            "ejercicio": "Sentadilla a silla",
+            "series": "2",
+            "repeticiones": "10",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Puente de glúteo",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Gemelos en escalón",
+            "series": "2",
+            "repeticiones": "12",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          },
+          {
+            "ejercicio": "Isométrico pared",
+            "series": "1",
+            "repeticiones": "30 s",
+            "peso": "PC",
+            "rpe": "4-5",
+            "descanso": "30-45 s",
+            "notas": ""
+          }
+        ],
+        "vueltaCalma": "Estiramientos suaves 2-3 min.",
+        "nota": "RPE 4-5. Opcional: solo si estás fresco. No llegar fatigado al control."
+      },
+      "notas": "No llegar fatigado al control."
+    },
+    {
+      "id": "2027-02-10",
+      "fecha": "10/02/2027",
+      "diaSemana": "Miércoles",
+      "semana": "Semana 12 (08/02–10/02)",
+      "fase": "F5 Control",
+      "rpeFc": "RPE 2 / Z1 FC",
+      "andar": {
+        "tipo": "andar",
+        "titulo": "Andar diario",
+        "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
+      },
+      "cardio": {
+        "tipo": "control",
+        "titulo": "Día de control/reestructuración",
+        "detalle": "Sin cardio estructurado. Andar fácil 30 min. Registrar: adherencia, molestias (0-10), RPE/FC de sesiones recientes, sensación de fuerza, fatiga de esquí, energía/sueño. Preparar ajustes para el bloque 11/02-14/03."
+      },
+      "fuerza": {
+        "tipo": "descanso",
+        "titulo": "Sin fuerza. Movilidad suave 10 min opcional",
+        "calentamiento": "",
+        "bloques": [],
+        "vueltaCalma": "",
+        "nota": "Día de control."
+      },
+      "notas": "Día de control/reestructuración. Valorar estado y planificar 11/02-14/03."
+    }
+  ]
+}

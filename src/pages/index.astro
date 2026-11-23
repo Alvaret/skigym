@@ -1,0 +1,156 @@
+---
+import Base from '../layouts/Base.astro';
+import plan from '../data/plan.json';
+
+const dias = plan.dias;
+const semanas = [...new Set(dias.map((d) => d.semana))];
+const fases = [...new Set(dias.map((d) => d.fase))];
+
+function kindLabel(tipo) {
+  if (tipo.includes('esqui')) return 'Esquí';
+  if (tipo.includes('run-walk')) return 'Run-walk';
+  if (tipo.includes('cuestas')) return 'Cuestas';
+  if (tipo.includes('intervalos')) return 'Intervalos';
+  if (tipo.includes('rodaje')) return 'Rodaje';
+  if (tipo.includes('recuperacion')) return 'Recuperación';
+  if (tipo.includes('control')) return 'Control';
+  if (tipo.includes('ninguno')) return 'Descanso';
+  return 'Cardio';
+}
+---
+<Base title={plan.meta.titulo} description="Plan día a día para preparar la Onil Trails 14K">
+  <div class="wrap">
+    <header class="site-head">
+      <div class="eyebrow">Onil Trails 14K · 14/03/2027</div>
+      <h1 class="display">Plan de<br/>entreno</h1>
+      <p class="lede">De {plan.meta.inicio} a {plan.meta.fin}. Cada día con andar, cardio y fuerza detallados. Datos editables en <code>src/data/plan.json</code>.</p>
+      <div class="stats">
+        <div class="stat"><span class="k">Objetivo</span><span class="v">2:30–2:45</span></div>
+        <div class="stat"><span class="k">Días</span><span class="v">{dias.length}</span></div>
+        <div class="stat"><span class="k">Fuerza</span><span class="v">2/semana</span></div>
+        <div class="stat"><span class="k">Regla</span><span class="v">RPE 6-7 máx</span></div>
+      </div>
+    </header>
+
+    <div class="filters no-print">
+      <label class="field">
+        <span>Buscar</span>
+        <input id="q" type="search" placeholder="Fecha, nota, fuerza..." />
+      </label>
+      <label class="field">
+        <span>Semana</span>
+        <select id="week"><option value="">Todas</option>{semanas.map((s) => <option value={s}>{s}</option>)}</select>
+      </label>
+      <label class="field">
+        <span>Fase</span>
+        <select id="phase"><option value="">Todas</option>{fases.map((f) => <option value={f}>{f}</option>)}</select>
+      </label>
+    </div>
+
+    <main>
+      {semanas.map((semana) => (
+        <section class="week-section" data-week={semana}>
+          <div class="week-head">
+            <h2 class="display">{semana}</h2>
+          </div>
+          <div class="cards">
+            {dias.filter((d) => d.semana === semana).map((d) => (
+              <a class="day-card" href={`/dia/${d.id}/`} data-week={d.semana} data-phase={d.fase} data-search={`${d.fecha} ${d.diaSemana} ${d.fase} ${d.notas} ${d.fuerza.titulo} ${d.cardio.titulo} ${d.andar.titulo}`.toLowerCase()}>
+                <div class="day-top">
+                  <div>
+                    <div class="day-date display">{d.fecha}</div>
+                    <div class="day-dow">{d.diaSemana}</div>
+                  </div>
+                  <div class="day-rpe pill rpe">{d.rpeFc}</div>
+                </div>
+                <div class="day-pills">
+                  <span class="pill phase">{d.fase}</span>
+                  <span class="pill accent">{kindLabel(d.cardio.tipo)}</span>
+                </div>
+                <div class="day-rows">
+                  <div class="day-row"><span class="k">Andar</span><span class="v">{d.andar.titulo}</span></div>
+                  <div class="day-row"><span class="k">Cardio</span><span class="v">{d.cardio.titulo}</span></div>
+                  <div class="day-row"><span class="k">Fuerza</span><span class="v">{d.fuerza.titulo}</span></div>
+                </div>
+                {d.notas && <div class="day-note">{d.notas}</div>}
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </main>
+    <footer class="site-foot">
+      <p><strong>Regla rápida:</strong> si hay dolor articular, no impacto ni carga. Después de esquí intenso, solo recuperación. Los datos viven en <code>src/data/plan.json</code>.</p>
+    </footer>
+  </div>
+
+  <script>
+    const q = document.getElementById('q');
+    const week = document.getElementById('week');
+    const phase = document.getElementById('phase');
+    const cards = [...document.querySelectorAll('.day-card')];
+    const sections = [...document.querySelectorAll('.week-section')];
+    function apply() {
+      const qv = q.value.toLowerCase().trim();
+      const wv = week.value;
+      const pv = phase.value;
+      cards.forEach((c) => {
+        const ok = (!qv || c.dataset.search.includes(qv)) && (!wv || c.dataset.week === wv) && (!pv || c.dataset.phase === pv);
+        c.classList.toggle('hidden', !ok);
+      });
+      sections.forEach((s) => {
+        s.classList.toggle('hidden', s.querySelectorAll('.day-card:not(.hidden)').length === 0);
+      });
+    }
+    [q, week, phase].forEach((el) => el.addEventListener('input', apply));
+  </script>
+</Base>
+
+<style>
+  .site-head { padding: 40px 0 24px; }
+  .eyebrow { font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 12px; }
+  h1 { font-size: clamp(56px, 14vw, 112px); margin: 0; color: var(--ink); }
+  .lede { max-width: 640px; font-size: 16px; color: var(--muted); margin: 16px 0 0; }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 24px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; box-shadow: var(--shadow); }
+  .stat .k { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+  .stat .v { display: block; margin-top: 4px; font-family: 'Barlow Condensed', sans-serif; font-size: 28px; line-height: 1; font-weight: 700; text-transform: uppercase; }
+
+  .filters { position: sticky; top: 0; z-index: 20; display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 10px; padding: 12px 0; background: rgba(244,241,234,.92); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(212,204,188,.7); }
+  .field { display: flex; flex-direction: column; gap: 5px; }
+  .field span { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+  input, select { width: 100%; min-height: 44px; padding: 10px 12px; border-radius: 12px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); font: inherit; }
+  input:focus, select:focus { outline: 2px solid rgba(201,93,46,.25); border-color: var(--accent); }
+
+  .week-section { padding: 28px 0 8px; }
+  .week-head { margin-bottom: 14px; }
+  .week-head h2 { margin: 0; font-size: clamp(34px, 7vw, 56px); color: var(--ink); }
+  .cards { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 14px; }
+  .day-card { display: flex; flex-direction: column; gap: 12px; padding: 18px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; box-shadow: var(--shadow); transition: transform .12s ease, border-color .12s ease; }
+  .day-card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
+  .day-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+  .day-date { font-size: 40px; line-height: .9; font-weight: 700; }
+  .day-dow { color: var(--muted); font-size: 14px; font-weight: 500; margin-top: 4px; }
+  .day-rpe { flex-shrink: 0; }
+  .day-pills { display: flex; flex-wrap: wrap; gap: 6px; }
+  .day-rows { display: grid; gap: 8px; }
+  .day-row { display: grid; grid-template-columns: 56px 1fr; gap: 10px; font-size: 14px; align-items: start; }
+  .day-row .k { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding-top: 2px; }
+  .day-row .v { color: var(--ink); }
+  .day-note { font-size: 13px; color: var(--muted); padding-top: 10px; border-top: 1px solid var(--line); }
+  .hidden { display: none !important; }
+  .site-foot { padding: 28px 0 48px; color: var(--muted); font-size: 14px; }
+  .site-foot p { margin: 0; padding: 18px; border: 1px solid var(--line); border-radius: 16px; background: rgba(255,253,250,.6); }
+
+  @media (max-width: 900px) {
+    .cards { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 720px) {
+    .site-head { padding-top: 28px; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .filters { grid-template-columns: 1fr 1fr; }
+    .filters .field:first-child { grid-column: 1 / -1; }
+    .day-date { font-size: 36px; }
+    .day-top { flex-direction: column; align-items: flex-start; }
+  }
+</style>
