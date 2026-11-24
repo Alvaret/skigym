@@ -103,16 +103,16 @@
       "diaSemana": "Miércoles",
       "semana": "Semana 1 (24/11–29/11)",
       "fase": "F1 Base + gym",
-      "rpeFc": "RPE 3-4 / Z1-Z2 baja FC",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
         "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
       },
       "cardio": {
-        "tipo": "intervalos-andar",
-        "titulo": "Andar enérgico con cambios de ritmo (exterior)",
-        "detalle": "5 min calentamiento fácil + 6 x (2 min andar enérgico / 2 min andar fácil) + 5 min vuelta a la calma. Total 35 min. RPE 3-4 / Z1-Z2 baja FC. Terreno: asfalto o parque llano. Mantén postura erguida y braceo activo."
+        "tipo": "run-walk",
+        "titulo": "Run-walk 1 — 20 min",
+        "detalle": "Cardio exterior — Run-walk 1 (20 min): 3 min andar fácil + 4 x (2 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 20 min (8 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Primer contacto con el trote. Sal muy conservador."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -420,16 +420,16 @@
       "diaSemana": "Miércoles",
       "semana": "Semana 2 (30/11–06/12)",
       "fase": "F1 Base + gym",
-      "rpeFc": "RPE 3-4 / Z1-Z2 baja FC",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
         "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
       },
       "cardio": {
-        "tipo": "intervalos-andar",
-        "titulo": "Andar enérgico con cambios de ritmo (exterior)",
-        "detalle": "5 min calentamiento fácil + 6 x (2 min andar enérgico / 2 min andar fácil) + 5 min vuelta a la calma. Total 35 min. RPE 3-4 / Z1-Z2 baja FC. Terreno: asfalto o parque llano."
+        "tipo": "run-walk",
+        "titulo": "Run-walk 2 — 24 min",
+        "detalle": "Cardio exterior — Run-walk 2 (24 min): 3 min andar fácil + 5 x (2 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 24 min (10 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Si el miércoles anterior fue bien, añade un bloque. No subas el ratio todavía."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -609,16 +609,16 @@
       "diaSemana": "Miércoles",
       "semana": "Semana 3 (07/12–13/12)",
       "fase": "F1 Base + gym",
-      "rpeFc": "RPE 3 / Z1-Z2 baja FC",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
         "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
       },
       "cardio": {
-        "tipo": "intervalos-andar",
-        "titulo": "Andar enérgico con cambios de ritmo (exterior)",
-        "detalle": "5 min calentamiento fácil + 5 x (2 min enérgico / 2 min fácil) + 5 min vuelta a la calma. Total 30-35 min. RPE 3 / Z1-Z2 baja FC. Asfalto llano."
+        "tipo": "run-walk",
+        "titulo": "Run-walk 3 — 28 min",
+        "detalle": "Cardio exterior — Run-walk 3 (28 min): 3 min andar fácil + 6 x (2 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 28 min (12 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Última sesión con ratio 2'/2' antes de subir a 3'."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -934,8 +934,8 @@
       },
       "cardio": {
         "tipo": "run-walk",
-        "titulo": "Run-walk 1 — 20 min",
-        "detalle": "Cardio exterior — Run-walk 1 (20 min): 3 min andar fácil + 4 x (2 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 20 min (8 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Primer día de trote. Sal muy conservador."
+        "titulo": "Run-walk 4 — 30 min",
+        "detalle": "Cardio exterior — Run-walk 4 (30 min): 3 min andar fácil + 5 x (3 min trote muy suave / 2 min andar) + 2 min andar fácil. Total 30 min (15 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Sube el trote a 3 min y mantén el andar en 2 min."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -1251,8 +1251,8 @@
       },
       "cardio": {
         "tipo": "run-walk",
-        "titulo": "Run-walk 2 — 24 min",
-        "detalle": "Cardio exterior — Run-walk 2 (24 min): 3 min andar fácil + 5 x (2 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 24 min (10 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Si el 16/12 fue bien, añade un bloque. No subas el ratio todavía."
+        "titulo": "Run-walk 5 — 34 min",
+        "detalle": "Cardio exterior — Run-walk 5 (34 min): 3 min andar fácil + 6 x (3 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 34 min (18 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Semana festiva: mantén el tiempo, no subas intensidad."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -1496,7 +1496,7 @@
       "diaSemana": "Miércoles",
       "semana": "Semana 6 (28/12–03/01)",
       "fase": "F1 Base + gym",
-      "rpeFc": "RPE 4 / Z2 baja FC",
+      "rpeFc": "RPE 4 / Z2 FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
@@ -1504,8 +1504,8 @@
       },
       "cardio": {
         "tipo": "run-walk",
-        "titulo": "Run-walk 3 — 28 min",
-        "detalle": "Cardio exterior — Run-walk 3 (28 min): 3 min andar fácil + 6 x (2 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 28 min (12 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Última sesión con ratio 2'/2' antes de subir a 3'."
+        "titulo": "Run-walk 6 — 40 min",
+        "detalle": "Cardio exterior — Run-walk 6 (40 min): 3 min andar fácil + 5 x (5 min trote muy suave / 2 min andar) + 2 min andar fácil. Total 40 min (25 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Bloques de 5 min de trote. Si notas fatiga, vuelve a 3'/2'."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -1577,7 +1577,7 @@
       "diaSemana": "Sábado",
       "semana": "Semana 6 (28/12–03/01)",
       "fase": "F2 Transición Navidad",
-      "rpeFc": "RPE 4 / Z2 baja FC",
+      "rpeFc": "RPE 4 / Z2 FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
@@ -1585,8 +1585,8 @@
       },
       "cardio": {
         "tipo": "run-walk",
-        "titulo": "Run-walk 4 — 30 min",
-        "detalle": "Cardio exterior — Run-walk 4 (30 min): 3 min andar fácil + 5 x (3 min trote muy suave / 2 min andar) + 2 min andar fácil. Total 30 min (15 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Sube el trote a 3 min. Mantén el andar en 2 min."
+        "titulo": "Run-walk 7 — 46 min",
+        "detalle": "Cardio exterior — Run-walk 7 (46 min): 3 min andar fácil + 6 x (5 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 46 min (30 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Más volumen con el mismo ratio. Si estás cargado, haz solo 5 bloques."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -1803,7 +1803,7 @@
       "diaSemana": "Viernes",
       "semana": "Semana 7 (04/01–10/01)",
       "fase": "F3 Esquí + mantenimiento",
-      "rpeFc": "RPE 4 / Z2 baja FC",
+      "rpeFc": "RPE 4 / Z2 FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
@@ -1811,8 +1811,8 @@
       },
       "cardio": {
         "tipo": "run-walk",
-        "titulo": "Run-walk 5 — 34 min",
-        "detalle": "Cardio exterior — Run-walk 5 (34 min): 3 min andar fácil + 6 x (3 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 34 min (18 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Deja piernas frescas para el esquí del fin de semana."
+        "titulo": "Run-walk 8 — 48 min",
+        "detalle": "Cardio exterior — Run-walk 8 (48 min): 3 min andar fácil + 6 x (5 min trote muy suave / 2 min andar) + 3 min andar fácil. Total 48 min (30 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Deja piernas frescas para el esquí del fin de semana."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -2010,8 +2010,8 @@
       },
       "cardio": {
         "tipo": "run-walk",
-        "titulo": "Run-walk 6 — 40 min",
-        "detalle": "Cardio exterior — Run-walk 6 (40 min): 3 min andar fácil + 5 x (5 min trote muy suave / 2 min andar) + 2 min andar fácil. Total 40 min (25 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Bloques largos de trote antes de la semana blanca. Si notas fatiga, vuelve a 3'/2'."
+        "titulo": "Run-walk 9 — 44 min",
+        "detalle": "Cardio exterior — Run-walk 9 (44 min): 3 min andar fácil + 4 x (8 min trote muy suave / 2 min andar) + 1 min andar fácil. Total 44 min (32 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. El trote es suave de verdad: puedes hablar entrecortadamente; si te cuesta, acorta el trote a 90 s. Si hay molestia articular, cambia a andar enérgico. Bloques largos antes de la semana blanca. Si notas fatiga, vuelve a 5'/2'."
       },
       "fuerza": {
         "tipo": "descanso",
@@ -2481,7 +2481,7 @@
       "cardio": {
         "tipo": "run-walk",
         "titulo": "Run-walk reset — 24 min (2'/2')",
-        "detalle": "Cardio exterior — Run-walk de reinicio (24 min): 3 min andar fácil + 5 x (2 min trote suave / 2 min andar) + 1 min andar fácil. Total 24 min (10 min trotando). RPE 3 / Z1-Z2 FC. Superficie: asfalto llano o parque. Reinicio tras la semana blanca: prioriza sensación de frescura, no volumen. Si te notas pesado, haz solo 4 bloques."
+        "detalle": "Cardio exterior — Run-walk de reinicio (24 min): 3 min andar fácil + 5 x (2 min trote suave / 2 min andar) + 1 min andar fácil. Total 24 min (10 min trotando). RPE 3 / Z1-Z2 FC. Superficie: asfalto llano o parque. Reinicio tras la semana blanca: prioriza frescura, no volumen. Si te notas pesado, haz solo 4 bloques."
       },
       "fuerza": {
         "tipo": "descanso",
