@@ -1911,16 +1911,16 @@
       "diaSemana": "Martes",
       "semana": "Semana 8 (11/01–17/01)",
       "fase": "F3 Esquí + mantenimiento",
-      "rpeFc": "RPE 6 / Z1-Z2 FC",
+      "rpeFc": "RPE 3 / Z1-Z2 FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
         "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
       },
       "cardio": {
-        "tipo": "ninguno",
-        "titulo": "Sin cardio estructurado",
-        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+        "tipo": "run-walk",
+        "titulo": "Run-walk puente — 22 min (2'/2')",
+        "detalle": "Cardio exterior — Run-walk puente (22 min): 3 min andar fácil + 4 x (2 min trote muy suave / 2 min andar) + 3 min andar fácil. Total 22 min (8 min trotando). RPE 3 / Z1-Z2 FC. Superficie: asfalto llano o parque. Sesión corta de mantenimiento entre semana, antes de la semana de esquí. Viene de recuperación post-esquí: si aún tienes piernas cargadas, cambia a andar enérgico 25 min. No llegues con fatiga a la sesión del 13/01."
       },
       "fuerza": {
         "tipo": "casa-pierna",
@@ -2499,16 +2499,16 @@
       "diaSemana": "Jueves",
       "semana": "Semana 10 (25/01–31/01)",
       "fase": "F5 Reconstrucción",
-      "rpeFc": "RPE 5-6",
+      "rpeFc": "RPE 3-4 / Z2 baja FC",
       "andar": {
         "tipo": "andar",
         "titulo": "Andar diario",
         "detalle": "Andar 30 minutos a ritmo fácil (RPE 2 / Z1 FC), conversación plena. Paseo intencional por asfalto o parque llano."
       },
       "cardio": {
-        "tipo": "ninguno",
-        "titulo": "Sin cardio estructurado",
-        "detalle": "No hay sesión de cardio estructurada hoy. Mantén el andar diario a ritmo fácil."
+        "tipo": "run-walk",
+        "titulo": "Run-walk — 30 min (3'/2')",
+        "detalle": "Cardio exterior — Run-walk (30 min): 3 min andar fácil + 5 x (3 min trote suave / 2 min andar) + 2 min andar fácil. Total 30 min (15 min trotando). RPE 3-4 / Z2 baja FC. Superficie: asfalto llano o parque. Primera sesión de trote tras la semana blanca y el reset del 27/01. Último estímulo antes del fin de semana de esquí: si tienes las piernas cargadas, reduce a 4 bloques o cambia a andar enérgico 30 min."
       },
       "fuerza": {
         "tipo": "superior",
