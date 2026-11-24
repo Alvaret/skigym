@@ -23,7 +23,6 @@ function kindLabel(tipo) {
     <header class="site-head">
       <div class="eyebrow">Onil Trails 14K · 14/03/2027</div>
       <h1 class="display">Plan de<br/>entreno</h1>
-      <p class="lede">De {plan.meta.inicio} a {plan.meta.fin}. Cada día con andar, cardio y fuerza detallados. Datos editables en <code>src/data/plan.json</code>.</p>
       <div class="stats">
         <div class="stat"><span class="k">Objetivo</span><span class="v">2:30–2:45</span></div>
         <div class="stat"><span class="k">Días</span><span class="v">{dias.length}</span></div>
@@ -110,7 +109,6 @@ function kindLabel(tipo) {
   .site-head { padding: 40px 0 24px; }
   .eyebrow { font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 12px; }
   h1 { font-size: clamp(56px, 14vw, 112px); margin: 0; color: var(--ink); }
-  .lede { max-width: 640px; font-size: 16px; color: var(--muted); margin: 16px 0 0; }
   .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 24px; }
   .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; box-shadow: var(--shadow); }
   .stat .k { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
