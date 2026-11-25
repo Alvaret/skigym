@@ -41,7 +41,7 @@
             "ejercicio": "Hack squat",
             "series": "3",
             "repeticiones": "8-10",
-            "peso": "15 kg",
+            "peso": "20 kg",
             "rpe": "6",
             "descanso": "60-90 s",
             "notas": ""
@@ -57,7 +57,7 @@
           },
           {
             "ejercicio": "Extensión cuádriceps",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "40 kg",
             "rpe": "6",
@@ -75,7 +75,7 @@
           },
           {
             "ejercicio": "Aductores (máquina, cierra)",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "25 kg",
             "rpe": "6",
@@ -93,7 +93,7 @@
           }
         ],
         "vueltaCalma": "Vuelta a la calma 5 min: caminar suave + estiramientos suaves de cuádriceps, isquios, gemelos y glúteo (20-30 s cada uno, sin rebotes).",
-        "nota": "RPE 6. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
+        "nota": "RPE 6. Sesión realizada: Hack squat 20 kg, Extensión 3 series y Aductores 3 series. Sube peso solo si la sesión anterior fue RPE 7 o menos. Nunca llegues al fallo."
       },
       "notas": "Empezar conservador; vienes de sesión 'out'."
     },
@@ -358,7 +358,7 @@
             "ejercicio": "Hack squat",
             "series": "3",
             "repeticiones": "8-10",
-            "peso": "17,5 kg",
+            "peso": "20 kg",
             "rpe": "6-7",
             "descanso": "60-90 s",
             "notas": ""
@@ -374,7 +374,7 @@
           },
           {
             "ejercicio": "Extensión",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "42,5 kg",
             "rpe": "6-7",
@@ -392,7 +392,7 @@
           },
           {
             "ejercicio": "Aductores (máquina, cierra)",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "27,5 kg",
             "rpe": "6-7",
@@ -692,7 +692,7 @@
             "ejercicio": "Hack squat",
             "series": "2",
             "repeticiones": "8-10",
-            "peso": "15 kg",
+            "peso": "17,5 kg",
             "rpe": "5-6",
             "descanso": "60-90 s",
             "notas": ""
@@ -864,7 +864,7 @@
             "ejercicio": "Hack squat",
             "series": "3",
             "repeticiones": "8-10",
-            "peso": "20 kg",
+            "peso": "22,5 kg",
             "rpe": "6-7",
             "descanso": "60-90 s",
             "notas": ""
@@ -880,7 +880,7 @@
           },
           {
             "ejercicio": "Extensión",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "45 kg",
             "rpe": "6-7",
@@ -898,7 +898,7 @@
           },
           {
             "ejercicio": "Aductores (máquina, cierra)",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "30 kg",
             "rpe": "6-7",
@@ -1181,7 +1181,7 @@
             "ejercicio": "Hack squat",
             "series": "3",
             "repeticiones": "8-10",
-            "peso": "20 kg",
+            "peso": "22,5 kg",
             "rpe": "6-7",
             "descanso": "60-90 s",
             "notas": ""
@@ -1197,7 +1197,7 @@
           },
           {
             "ejercicio": "Extensión",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "47,5 kg",
             "rpe": "6-7",
@@ -1215,7 +1215,7 @@
           },
           {
             "ejercicio": "Aductores (máquina, cierra)",
-            "series": "2",
+            "series": "3",
             "repeticiones": "12",
             "peso": "32,5 kg",
             "rpe": "6-7",
